@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package grpc;
+
+message request {
+  string url1 = 1;
+  string url2 = 2;
+}
+
+message response {
+  string ans = 1;
+}
+
+service ChatServer {
+    rpc SendRequest (request) returns (response);
+}
