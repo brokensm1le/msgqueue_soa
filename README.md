@@ -12,7 +12,7 @@
 Делаем `git clone` данного репозитория
 
 ```
-git clone ...
+git clone https://github.com/brokensm1le/msgqueue_soa.git
 ```
 
 ### Шаг 2
