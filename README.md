@@ -37,3 +37,5 @@ python3 client.py
 ```
 
 ## Дизайн
+
+<img src="Diagram.png"/>
